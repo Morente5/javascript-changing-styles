@@ -5,3 +5,7 @@
 .regular {
 	display: none;
 }
+
+.icon {
+	height: 32px;
+}
